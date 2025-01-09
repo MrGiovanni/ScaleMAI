@@ -11,7 +11,7 @@ ScaleMAI is an AI-integrated data curation and annotation agent that combines it
 <b>ScaleMAI: Accelerating the Development of Trusted Datasets and AI Models</b> <br/>
 Wenxuan Li, Pedro R. A. S. Bassi, Tianyu Lin, Yu-Cheng Chou, Xinze Zhou, Yucheng Tang, Fabian Isensee, Kang Wang, Qi Chen, Xiaowei Xu, Xiaoxi Chen, Lizhou Wu, Qilong Wu, Yannick Kirchhoff, Maximilian Rokuss, Saikat Roy, Yuxuan Zhao, Dexin Yu, Kai Ding, Constantin Ulrich, Klaus Maier-Hein, Yang Yang, Alan L. Yuille, Zongwei Zhou <br/>
 Johns Hopkins University <br/>
-<a href='https://www.zongweiz.com/dataset'><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href='https://arxiv.org/pdf/2501.03410'><img src='https://img.shields.io/badge/Paper-PDF-purple'></a>
+<a href='https://www.zongweiz.com/dataset'><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href='https://arxiv.org/pdf/2501.03410'><img src='https://img.shields.io/badge/Paper-PDF-purple'></a> <a href='document/rsna2024_slides.pdf'><img src='https://img.shields.io/badge/Slides-2024-orange'></a> [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://youtu.be/5ByuftwmF7w)
 
 ## *PancreaVerse:* An AI Trusted Dataset for Pancreatic Cancer Studies
 
