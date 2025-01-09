@@ -1,5 +1,10 @@
 # ScaleMAI
 
+<div align="center">
+ 
+![logo](document/fig_scalemai_agent.jpg)
+</div>
+
 ## Paper
 
 <b>ScaleMAI: Accelerating the Development of Trusted Datasets and AI Models</b> <br/>
