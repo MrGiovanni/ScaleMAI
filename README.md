@@ -32,6 +32,9 @@ AI models, trained on the PancreaVerse dataset, match senior and expert radiolog
 
 PancreaVerse comprises **25,362** CT scans with precise per-voxel annotations of **benign and malignant pancreatic tumors**, **pancreas head, body, and tail**, along with **24** surrounding structures (i.e., *pancreas, superior mesenteric artery, pancreatic duct, celiac artery, common bile duct, veins, aorta, gall bladder, left and right kidneys, liver, postcava, spleen, stomach, left and right adrenal glands, bladder, colon, duodenum, left and right femurs, left and right lungs, and prostate*). Sourced from **112** hospitals, this dataset includes imaging **metadata** such as patient sex, age, contrast phase, diagnosis, spacing, and scanner details. 
 
+> [!CAUTION]
+> Annotating a dataset of 25K CT scans with 600K 3D masks will require a radiologist to start work on it since 1790.
+
 This dataset enables standard medical imaging tasks—detection, segmentation, and classification—and clinical tasks such as tumor staging and radiotherapy planning.
 
 ## Citation
