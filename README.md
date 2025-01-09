@@ -19,14 +19,15 @@ Johns Hopkins University <br/>
  
 ![logo](document/fig_reader_study_tumor_detection.jpg)
 </div>
-AI models, trained on the PancreaVerse dataset, match senior and expert radiologists in tumor detection and surpasses them in tumor classification accuracy.
+AI models, trained on the PancreaVerse dataset, match senior and expert radiologists in tumor detection and surpasses them in tumor classification accuracy. <br/><br/>
+
 
 | **dataset** | **# of class** | **# of CT** | **# of center** |
 |-----------|:--------:|:---------:|:---------:|
-| MSD-Pancreas | 2 | 420 | 1 |
-| TCIA-CBCT | 0 | 40 | 1 |
-| TCIA-panNET | 0 | 38 | 1 |
-| PANORAMA | 6 | 3,000 | 7 |
+| TCIA-CBCT [[Han et al., Med. Phys. 2021](https://pubmed.ncbi.nlm.nih.gov/33905539/)] | 0 | 40 | 1 |
+| MSD-Pancreas [[Antonelli et al., Nat. Commun. 2022](https://www.nature.com/articles/s41467-022-30695-9.pdf)] | 2 | 420 | 1 |
+| TCIA-panNET [[Chen et al., Int. J. Cancer 2023](https://pubmed.ncbi.nlm.nih.gov/36111424/)] | 0 | 38 | 1 |
+| PANORAMA [[Alves et al., 2024](https://panorama.grand-challenge.org)] | 6 | 3,000 | 7 |
 | PancreaVerse | 27 | 25,362 | 112 |
 
 PancreaVerse comprises **25,362** CT scans with precise per-voxel annotations of **benign and malignant pancreatic tumors**, **pancreas head, body, and tail**, along with **24** surrounding structures (i.e., *pancreas, superior mesenteric artery, pancreatic duct, celiac artery, common bile duct, veins, aorta, gall bladder, left and right kidneys, liver, postcava, spleen, stomach, left and right adrenal glands, bladder, colon, duodenum, left and right femurs, left and right lungs, and prostate*). Sourced from **112** hospitals, this dataset includes imaging **metadata** such as patient sex, age, contrast phase, diagnosis, spacing, and scanner details. 
@@ -34,6 +35,16 @@ PancreaVerse comprises **25,362** CT scans with precise per-voxel annotations of
 This dataset enables standard medical imaging tasks—detection, segmentation, and classification—and clinical tasks such as tumor staging and radiotherapy planning.
 
 ## Citation
+
+```
+@article{li2025scalemai,
+    title={ScaleMAI: Accelerating the Development of Trusted Datasets and AI Models}, 
+    author={Wenxuan Li and Pedro R. A. S. Bassi and Tianyu Lin and Yu-Cheng Chou and Xinze Zhou and Yucheng Tang and Fabian Isensee and Kang Wang and Qi Chen and Xiaowei Xu and Xiaoxi Chen and Lizhou Wu and Qilong Wu and Yannick Kirchhoff and Maximilian Rokuss and Saikat Roy and Yuxuan Zhao and Dexin Yu and Kai Ding and Constantin Ulrich and Klaus Maier-Hein and Yang Yang and Alan L. Yuille and Zongwei Zhou},
+    journal={arXiv preprint arXiv:2501.03410},
+    year={2025},
+    url={https://github.com/MrGiovanni/ScaleMAI}
+}
+```
 
 ## Acknowledgement
 
