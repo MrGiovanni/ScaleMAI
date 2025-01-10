@@ -12,7 +12,7 @@ ScaleMAI is an AI-integrated data curation and annotation agent that combines it
 
 <b>ScaleMAI: Accelerating the Development of Trusted Datasets and AI Models</b> <br/>
 [Wenxuan Li](https://scholar.google.com/citations?hl=en&user=tpNZM2YAAAAJ), [Pedro R. A. S. Bassi](https://scholar.google.com/citations?user=NftgL6gAAAAJ), [Tianyu Lin](https://scholar.google.com/citations?user=eHJYs-IAAAAJ&hl=zh-CN), [Yu-Cheng Chou](https://scholar.google.com.tw/citations?user=YVNRBTcAAAAJ&hl), Xinze Zhou, [Yucheng Tang](https://scholar.google.com/citations?user=0xheliUAAAAJ&hl=en), [Fabian Isensee](https://scholar.google.com/citations?user=PjerEe4AAAAJ&hl=en), Kang Wang, [Qi Chen](https://scholar.google.com/citations?user=4Q5gs2MAAAAJ&hl=en), [Xiaowei Xu](https://scholar.google.com.hk/citations?user=1vVgUeQAAAAJ&hl=zh-CN), [Xiaoxi Chen](https://scholar.google.com/citations?user=FQ53_nAAAAAJ&hl=zh-CN), Lizhou Wu, [Qilong Wu](https://scholar.google.com/citations?user=xrWDBjcAAAAJ&hl=zh-CN), [Yannick Kirchhoff](https://scholar.google.de/citations?user=nfvjwmkAAAAJ&hl=de), [Maximilian Rokuss](https://scholar.google.de/citations?user=u2cX-YAAAAAJ&hl=de), [Saikat Roy](https://scholar.google.de/citations?user=dSs0DfoAAAAJ&hl=de), Yuxuan Zhao, Dexin Yu, [Kai Ding](https://scholar.google.com/citations?user=OvpsAYgAAAAJ&hl=en), [Constantin Ulrich](https://scholar.google.de/citations?user=PtkCbCwAAAAJ&hl=de), [Klaus Maier-Hein](https://scholar.google.de/citations?user=oCrBpVMAAAAJ&hl=de), [Yang Yang](https://scholar.google.com/citations?user=6XsJUBIAAAAJ&hl=en), [Alan Yuille](https://www.cs.jhu.edu/~ayuille/), [Zongwei Zhou](https://www.zongweiz.com/)* <br/>
-Johns Hopkins University <br/>
+*Johns Hopkins University* <br/>
 <a href='https://www.zongweiz.com/dataset'><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href='https://www.cs.jhu.edu/~zongwei/publication/li2025scalemai.pdf'><img src='https://img.shields.io/badge/Paper-PDF-purple'></a> <a href='document/rsna2024_slides.pdf'><img src='https://img.shields.io/badge/Slides-2024-orange'></a> [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://youtu.be/5ByuftwmF7w)
 
 ## *PancreaVerse:* An AI Trusted Dataset for Pancreatic Cancer Studies
@@ -35,7 +35,7 @@ AI models, trained on the PancreaVerse dataset, match senior and expert radiolog
 PancreaVerse comprises **25,362** CT scans with precise per-voxel annotations of **benign and malignant pancreatic tumors**, **pancreas head, body, and tail**, along with **24** surrounding structures (i.e., *pancreas, superior mesenteric artery, pancreatic duct, celiac artery, common bile duct, veins, aorta, gall bladder, left and right kidneys, liver, postcava, spleen, stomach, left and right adrenal glands, bladder, colon, duodenum, left and right femurs, left and right lungs, and prostate*). Sourced from **112** hospitals, this dataset includes imaging **metadata** such as patient sex, age, contrast phase, diagnosis, spacing, and scanner details. 
 
 > [!CAUTION]
-> Annotating a dataset of 25K CT scans with 600K 3D masks will require a radiologist to start work on it since 1790.
+> Annotating a dataset of 25K CT scans with 600K 3D tumor and organ masks requires an expert radiologist to start work on it since **1790**.
 
 This dataset enables standard medical imaging tasks—detection, segmentation, and classification—and clinical tasks such as tumor staging and radiotherapy planning.
 
