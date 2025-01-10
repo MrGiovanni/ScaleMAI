@@ -1,9 +1,11 @@
 # ScaleMAI
 
-<div align="center">
- 
-![logo](document/fig_scalemai_agent.jpg)
-</div>
+<p>
+  <a href="https://youtu.be/5ByuftwmF7w" target="_blank">
+    <img src="document/fig_scalemai_agent.jpg" />
+  </a>
+</p>
+
 ScaleMAI is an AI-integrated data curation and annotation agent that combines iterative, multi-stage processes with AI and human expertise to progressively enhance dataset quality.
 
 ## Paper
