@@ -41,11 +41,21 @@ This dataset enables standard medical imaging tasks—detection, segmentation, a
 
 ```
 @article{li2025scalemai,
-    title={ScaleMAI: Accelerating the Development of Trusted Datasets and AI Models}, 
-    author={Wenxuan Li and Pedro R. A. S. Bassi and Tianyu Lin and Yu-Cheng Chou and Xinze Zhou and Yucheng Tang and Fabian Isensee and Kang Wang and Qi Chen and Xiaowei Xu and Xiaoxi Chen and Lizhou Wu and Qilong Wu and Yannick Kirchhoff and Maximilian Rokuss and Saikat Roy and Yuxuan Zhao and Dexin Yu and Kai Ding and Constantin Ulrich and Klaus Maier-Hein and Yang Yang and Alan L. Yuille and Zongwei Zhou},
-    journal={arXiv preprint arXiv:2501.03410},
-    year={2025},
-    url={https://github.com/MrGiovanni/ScaleMAI}
+  title={ScaleMAI: Accelerating the Development of Trusted Datasets and AI Models},
+  author={Li, Wenxuan and Bassi, Pedro RAS and Lin, Tianyu and Chou, Yu-Cheng and Zhou, Xinze and Tang, Yucheng and Isensee, Fabian and Wang, Kang and Chen, Qi and Xu, Xiaowei and others},
+  journal={arXiv preprint arXiv:2501.03410},
+  year={2025},
+  url={https://github.com/MrGiovanni/ScaleMAI}
+}
+
+@article{li2024abdomenatlas,
+  title={AbdomenAtlas: A large-scale, detailed-annotated, \& multi-center dataset for efficient transfer learning and open algorithmic benchmarking},
+  author={Li, Wenxuan and Qu, Chongyu and Chen, Xiaoxi and Bassi, Pedro RAS and Shi, Yijia and Lai, Yuxiang and Yu, Qian and Xue, Huimin and Chen, Yixiong and Lin, Xiaorui and others},
+  journal={Medical Image Analysis},
+  pages={103285},
+  year={2024},
+  publisher={Elsevier},
+  url={https://github.com/MrGiovanni/AbdomenAtlas}
 }
 ```
 
