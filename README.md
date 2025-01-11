@@ -1,4 +1,15 @@
-# ScaleMAI
+<h1 align="center">ScaleMAI</h1>
+
+<div align="center">
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=MrGiovanni/ScaleMAI)
+[![GitHub Repo stars](https://img.shields.io/github/stars/MrGiovanni/ScaleMAI?style=social)](https://github.com/MrGiovanni/SuPreM/stargazers)
+<a href="https://twitter.com/bodymaps317">
+        <img src="https://img.shields.io/twitter/follow/BodyMaps?style=social" alt="Follow on Twitter" />
+</a><br/>
+**Subscribe us: https://groups.google.com/u/2/g/bodymaps**  
+
+</div>
 
 <p>
   <a href="https://youtu.be/5ByuftwmF7w" target="_blank">
